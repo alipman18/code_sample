@@ -1,2 +1,3 @@
 # Code samples
 This repo contains various code samples in R
+- Property_tax_visualization: This file contains code to query publicly provided information on tax bills for certain commerical property types during the 2021 year. The analysis looks at whether properties that receive a valuation reduction from the Cook County Assessor's Office (CCAO) or the Board of Review (BOR), the independent entity that reviews appeals, differ in their initial value. During my internship at CCAO, I analyzed similar data (with a focus on properties receiving vacancy reductions) and produced various visualizations for an internal report.
